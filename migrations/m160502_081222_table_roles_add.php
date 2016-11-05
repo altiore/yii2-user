@@ -1,4 +1,5 @@
 <?php
+namespace altiore\user\migrations;
 
 use yii\db\Migration;
 
