@@ -3,7 +3,7 @@
     "description": "Yii2 Extension AltioreUser",
     "type": "yii2-extension",
     "require": {
-        "yiisoft/yii2": ">=2.0.10"
+        "yiisoft/yii2": "^2.0"
     },
     "license": "MIT",
     "authors": [
