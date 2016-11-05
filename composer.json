@@ -1,0 +1,21 @@
+{
+    "name": "altiore/yii2-user",
+    "description": "Yii2 Extension AltioreUser",
+    "type": "yii2-extension",
+    "require": {
+        "yiisoft/yii2": "^2.0.9"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Razzwan",
+            "email": "razvanlomov@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "altiore\\user\\": ""
+        }
+    }
+}
